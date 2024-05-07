@@ -105,7 +105,7 @@
         </div>
         <div class="sc-beqWaB iMTFru">
           <a
-            href="index.php"
+            href="index.html"
             ping="https://start-page-realm-worker.bufferapp.workers.dev?pid=6431af6a00888f0024890fa5&amp;bid=6431af6a585b5dee66f5e60e"
             target="_blank"
             rel="noopener noreferrer"
